@@ -1,3 +1,3 @@
 # Teknoport
-Teknoloji@GitHub
+Teknoloji@GitHub<br />
 https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari
